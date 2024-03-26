@@ -1,0 +1,19 @@
+.quote-box {
+    margin: auto;
+    width: 75%;
+    border: 1px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
